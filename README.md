@@ -37,9 +37,9 @@ Other people have done work on this data set, for example in the [Predict Custom
 ## Table of Contents
 Notebook:
 
-[Report](https://github.com/cko-976/Predicting-Customer-Churn/blob/main/Notebooks/Technical%20Report.ipynb). This notebook is submitted as part of the Data601 project. It includes the summary of the work done on the project. 
+[Final Technical Report](https://github.com/cko-976/Predicting-Customer-Churn/blob/main/Notebooks/Technical%20Report.ipynb). This notebook is submitted as part of the Data601 project. It includes the summary of the work done on the project. 
 
-Please note the [EDA]() notebook is available. 
+Please note the [EDA](https://github.com/cko-976/Predicting-Customer-Churn/blob/main/Notebooks/EDA.ipynb) notebook is available. 
 
 ## Data
 [Getting Data.ipynb](). Dataset from Kaggle.
