@@ -15,7 +15,7 @@ The 5-fold cross-validation will be used to access which model produces the best
 - The goal is to train a classfication model that performs better than 0.73 accuracy and the lowest mean squared error. 
 
 We will use 5-fold Cross-Validation to evaluate which model has the best accuracy score. 
-Then we the grid search cross validation to fine tune the models. 
+Then use the grid search cross validation to fine tune the models. 
 
 
 ## Motivation and Background
@@ -31,18 +31,14 @@ This study will be useful for anyone wanting to learn how to make predictions us
 
 It is also useful for anyone wanting to learn how to select a model using K-fold Cross-Validation.
 
-
-Other people have done work on this data set, for example in the [Predict Customer Churn](https://datascienceplus.com/predict-customer-churn-logistic-regression-decision-tree-and-random-forest/) the data was model using Logistic Regression, Decision Tree and Random Forest using R.  
-
-In the [Telco Customer Churn Prediction](https://towardsdatascience.com/telco-customer-churn-prediction-72f5cbfb8964) the Logistic Regression model is used to analyze the dataset. 
+Other people have done work on this data set, for example in the [Predict Customer Churn](https://datascienceplus.com/predict-customer-churn-logistic-regression-decision-tree-and-random-forest/) the data was modeled using Logistic Regression, Decision Tree and Random Forest using R. In the [Telco Customer Churn Prediction](https://towardsdatascience.com/telco-customer-churn-prediction-72f5cbfb8964) the Logistic Regression model is used to analyze the dataset. 
 
 
 ## Table of Contents
-Notebooks included:
-[Getting Data.ipynb](). This data is source from Kaggle website. 
-[Technical Report](). Explore the Telco dataset.
-[Report](). This notebook is submitted as part of the Data601 project. 
-It includes the summary of the work done on the project. 
+Notebook:
+[Report](). This notebook is submitted as part of the Data601 project. It includes the summary of the work done on the project. 
+
+Please note the [EDA]() notebook is available. 
 
 ## Data
 [Getting Data.ipynb](). Dataset from Kaggle.
