@@ -36,7 +36,8 @@ Other people have done work on this data set, for example in the [Predict Custom
 
 ## Table of Contents
 Notebook:
-[Report](). This notebook is submitted as part of the Data601 project. It includes the summary of the work done on the project. 
+
+[Report](https://github.com/cko-976/Predicting-Customer-Churn/blob/main/Notebooks/Technical%20Report.ipynb). This notebook is submitted as part of the Data601 project. It includes the summary of the work done on the project. 
 
 Please note the [EDA]() notebook is available. 
 
