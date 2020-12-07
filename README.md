@@ -14,7 +14,7 @@ The 5-fold cross-validation and the GridSearch CV will be used to access which m
 ## Goals
 - The goal is to train a classfication model that has an accuracy score of more than 0.73. 
 
-The metrics use will be the accuracy score and the confusion matrix.
+The metrics used will be the accuracy score and the confusion matrix.
 
 We will use 5-fold Cross-Validation to evaluate which model has the best accuracy score. 
 Then use the GridSearch CV to fine tune the models. 
