@@ -1,6 +1,6 @@
 # Predicting-Customer-Churn
 
-In this project will implement all aspects learned in Data601.
+This project will implement all aspects learned in Data601.
 
 # Overview
 
